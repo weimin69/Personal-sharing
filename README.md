@@ -4,4 +4,4 @@ Here, I share excellent articles and videos found across various websites, aimed
 ### Latest Share
 [Issue One](docs/issues_001.md) 
 
-###### Past Issues Navigation
+### Past Issues Navigation
