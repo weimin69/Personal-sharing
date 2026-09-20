@@ -2,7 +2,7 @@
 I share excellent articles videos and useful tools found across various websites, *The content shared focuses primarily on technology and ideas, but also includes humorous and funny material*.
 
 ### Latest Share
-[Issue One](docs/issues_001.md)
+[Issue 001](docs/issues_001.md)
  
 ### Past Issues Navigation
  
