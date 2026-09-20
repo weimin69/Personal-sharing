@@ -2,10 +2,10 @@
 I share excellent articles videos and useful tools found across various websites, *The content shared focuses primarily on technology and ideas, but also includes humorous and funny material*.
 
 ### Latest Share
-[Issue Two](docs/issues_002.md) 
-
+[Issue One](docs/issues_001.md)
+ 
 ### Past Issues Navigation
-[Issue One](docs/issues_001.md) 
+ 
 
 ### How to Submit Content
 Although this is a personal share, I hope to encourage everyone to contribute even better content.
