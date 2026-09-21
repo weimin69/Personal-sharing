@@ -2,13 +2,14 @@
 I share excellent articles videos and useful tools found across various websites, *The content shared focuses primarily on technology and ideas, but also includes humorous and funny material*.
 
 ### Latest Share
-[Issue 001](docs/issues_001.md)
+[Issue 002](docs/issues_002.md)
  
 ### Past Issues Navigation
- 
+[Issue 001](docs/issues_001.md) 
 
 ### How to Submit Content
 Although this is a personal share, I hope to encourage everyone to contribute even better content.
+
 You can contribute by mentioning issues.
 
 When submitting an issue to the repository

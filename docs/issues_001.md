@@ -14,11 +14,13 @@ The author points out the superficial "concern" shown by most universities today
 
 The author uses provocative language; reading this should prove thought-provoking.
 
+
 ### [Firstrade Account Opening Guide: Get Set Up in 10 Minutes (Personally Tested & Verified)](https://x.com/WuKongWAGMI/status/2062402987369349218)
 
 The author has provided a comprehensive, step-by-step guide to opening an account with Firstrade.
 
 Worth reading for anyone looking to open a US stock trading account.
+
 
 ### [Why do some projects use multiple programming languages?](https://www.bilibili.com/video/BV1aXbXzfEsM)
 
