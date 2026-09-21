@@ -9,6 +9,7 @@ I share excellent articles videos and useful tools found across various websites
 
 ### How to Submit Content
 Although this is a personal share, I hope to encourage everyone to contribute even better content.
+You can contribute by mentioning issues.
 
 When submitting an issue to the repository
 * please include the URL of the content
